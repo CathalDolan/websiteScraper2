@@ -1,0 +1,24 @@
+{
+  "name": "websitescraper2",
+  "version": "1.0.0",
+  "description": "![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CathalDolan/websiteScraper2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CathalDolan/websiteScraper2/issues"
+  },
+  "homepage": "https://github.com/CathalDolan/websiteScraper2#readme",
+  "dependencies": {
+    "nodemon": "^2.0.20",
+    "puppeteer": "^19.5.2"
+  }
+}

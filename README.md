@@ -1,10 +1,14 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+Tutorial taken from https://www.youtube.com/watch?v=lgyszZhAZOI
 
-Welcome USER_NAME,
+// nodemon needs to be installed. Allows the program to run each time it's saved
+// install i nodemon. See package.json
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+If fails to start when reopened in the workspace
+- Reinstall do demon: npm i nodemon
+- node node_modules/puppeteer/install.js
+- sudo apt install libnss
+- sudo apt install libnss3-dev libgdk-pixbuf2.0-dev libgtk-3-dev libxss-dev
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **September 1, 2021**
 
 ## Gitpod Reminders
 
